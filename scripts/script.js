@@ -16,7 +16,7 @@ if (form) {
         }
 
         const usuarioCorreto = "barbabranca";
-        const senhaCorreta = "barbabranca1234";
+        const senhaCorreta = "barbabranca";
 
         if (nome === usuarioCorreto && senha === senhaCorreta) {
             mensagem.innerHTML = "<div class='sucesso'><p>Login feito com Sucesso!</p></div>";
