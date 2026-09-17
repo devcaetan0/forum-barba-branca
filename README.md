@@ -1,8 +1,8 @@
-# O Barba Branca - Fórum
+# ☠️ O Barba Branca - Fórum ☠️
 
 Este é um projeto de site estático desenvolvido para homenagear o personagem Edward Newgate (Barba Branca) da obra One Piece. O projeto foi construído com foco em estruturação front-end, estilização com Bootstrap e interatividade com JavaScript puro.
 
-### Funcionalidades
+### 🚀 Funcionalidades
 
 * **Autenticação Simulada:** Tela de login funcional com validação de credenciais de acesso via JavaScript.
 * **Página Inicial (História):** Apresentação visual do personagem, suas motivações, trajetória e sua lendária rivalidade com Gol D. Roger.
