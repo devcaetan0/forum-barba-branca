@@ -19,9 +19,7 @@ Este é um projeto de site estático desenvolvido para homenagear o personagem E
 
 ### ⚙️ Como Executar o Projeto
 
-1. Clone este repositório ou faça o download dos arquivos.
-2. Abra o arquivo `index.html` (tela inicial) no seu navegador web.
-3. Para acessar o conteúdo do site, insira as credenciais no formulário de login:
+1. Para acessar o conteúdo do site, insira as credenciais no formulário de login:
    * **Nome Usuário:** `barbabranca`
    * **Senha:** `barbabranca`
 ---
